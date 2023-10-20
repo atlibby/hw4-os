@@ -3,4 +3,5 @@ project(hw4_os C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(hw4_os sync.atlibby.akirscht.c)
+add_executable(hw4_os sync.atlibby.akirscht.c
+        simple-mutex-example.c)
