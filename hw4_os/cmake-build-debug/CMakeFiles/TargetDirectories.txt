@@ -1,0 +1,3 @@
+/Users/andrewlibby/CLionProjects/hw4_os/cmake-build-debug/CMakeFiles/hw4_os.dir
+/Users/andrewlibby/CLionProjects/hw4_os/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrewlibby/CLionProjects/hw4_os/cmake-build-debug/CMakeFiles/rebuild_cache.dir
